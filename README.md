@@ -1,3 +1,3 @@
-# Calculator-Unity3D
+# Calculator-Unity
 
-## A Unity 3D calculator with a dll
+## A Unity calculator with a dll
